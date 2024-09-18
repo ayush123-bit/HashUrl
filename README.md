@@ -36,12 +36,12 @@ The hashed URLs and their respective metadata (like click limits) are stored in 
    ```bash
    git clone https://github.com/ayush123-bit/HashUrl.git
 
-2. Installation for server folder:
+2. Installation for server folder(in first terminal):
    ```bash
    cd server
    nodemon app.js
 
-3. Installation for client folder:
+3. Installation for client folder(in second terminal):
    ```bash
    cd client
    npm install
