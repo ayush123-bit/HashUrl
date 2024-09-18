@@ -26,6 +26,9 @@ The hashed URLs and their respective metadata (like click limits) are stored in 
 
 ### Prerequisites
 - Node.js installed
+- Install nodemon in the system
+   ```bash
+   npm install -g nodemon 
 - MongoDB Compass (or any MongoDB instance)
 - Git installed
 - React installed
